@@ -1,2 +1,2 @@
 # IBGE_geojon
-Join do malhas e localidades do IBGE
+Join de malhas e localidades do IBGE
